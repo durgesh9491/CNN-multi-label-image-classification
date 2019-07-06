@@ -1,0 +1,6 @@
+#Ignore these files and folders
+.DS_Store
+wget-log
+**/__pycache__/*
+*.log
+*.pyc

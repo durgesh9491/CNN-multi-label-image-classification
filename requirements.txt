@@ -1,0 +1,8 @@
+keras
+tensorflow
+flask
+gevent
+pillow
+sklearn
+imutils
+opencv-python
